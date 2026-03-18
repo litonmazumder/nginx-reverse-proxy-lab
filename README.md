@@ -1,4 +1,4 @@
-# nginx Reverse Proxy Lab
+# Nginx Reverse Proxy Lab
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Nginx](https://img.shields.io/badge/server-nginx-green)
