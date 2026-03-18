@@ -6,6 +6,7 @@
 ![Docker Compose](https://img.shields.io/badge/orchestration-docker--compose-blue)
 ![Reverse Proxy](https://img.shields.io/badge/network-reverse--proxy-orange)
 ![Load Balancing](https://img.shields.io/badge/feature-load--balancing-purple)
+![DevOps](https://img.shields.io/badge/devops-infrastructure-red)
 
 This project demonstrates a simple reverse proxy and load balancing setup using Nginx and Docker.
 
