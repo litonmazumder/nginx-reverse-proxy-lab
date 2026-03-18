@@ -7,13 +7,13 @@
 ![Reverse Proxy](https://img.shields.io/badge/network-reverse--proxy-orange)
 ![Load Balancing](https://img.shields.io/badge/feature-load--balancing-purple)
 
-### This project demonstrates a simple reverse proxy and load balancing setup using Nginx and Docker.
+This project demonstrates a simple reverse proxy and load balancing setup using Nginx and Docker.
 
-### The reverse proxy routes incoming client requests to multiple backend services running in containers. This setup represents a common architecture used in modern DevOps environments.
+The reverse proxy routes incoming client requests to multiple backend services running in containers. This setup represents a common architecture used in modern DevOps environments.
 
 ## Architecture
 
-### Client requests are received by the Nginx reverse proxy, which forwards traffic to backend services using load balancing.
+Client requests are received by the Nginx reverse proxy, which forwards traffic to backend services using load balancing.
 ```
 Client
    ↓
