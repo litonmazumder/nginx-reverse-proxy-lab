@@ -1,12 +1,19 @@
-# ginx Reverse Proxy Lab
+# nginx Reverse Proxy Lab
 
-This project demonstrates a simple reverse proxy and load balancing setup using Nginx and Docker.
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Nginx](https://img.shields.io/badge/server-nginx-green)
+![Docker](https://img.shields.io/badge/container-docker-blue)
+![Docker Compose](https://img.shields.io/badge/orchestration-docker--compose-blue)
+![Reverse Proxy](https://img.shields.io/badge/network-reverse--proxy-orange)
+![Load Balancing](https://img.shields.io/badge/feature-load--balancing-purple)
 
-The reverse proxy routes incoming client requests to multiple backend services running in containers. This setup represents a common architecture used in modern DevOps environments.
+### This project demonstrates a simple reverse proxy and load balancing setup using Nginx and Docker.
 
-Architecture
+### The reverse proxy routes incoming client requests to multiple backend services running in containers. This setup represents a common architecture used in modern DevOps environments.
 
-Client requests are received by the Nginx reverse proxy, which forwards traffic to backend services using load balancing.
+## Architecture
+
+### Client requests are received by the Nginx reverse proxy, which forwards traffic to backend services using load balancing.
 ```
 Client
    ↓
