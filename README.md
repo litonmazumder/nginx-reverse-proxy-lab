@@ -7,6 +7,7 @@
 ![Reverse Proxy](https://img.shields.io/badge/network-reverse--proxy-orange)
 ![Load Balancing](https://img.shields.io/badge/feature-load--balancing-purple)
 ![DevOps](https://img.shields.io/badge/devops-infrastructure-red)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=devops-monitoring-stack)
 
 This project demonstrates a simple reverse proxy and load balancing setup using Nginx and Docker.
 
